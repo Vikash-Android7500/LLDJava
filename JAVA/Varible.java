@@ -20,6 +20,6 @@ public class Varible {
                "\n" + "itme7 "  + item7 +
                "\n" + "Name: "  + Name +
                "\n" + "itme8 "  + item8
-               );
+          );
      }
 }
